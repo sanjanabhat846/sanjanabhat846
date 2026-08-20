@@ -161,6 +161,7 @@ I’m particularly interested in **end-to-end AI systems** rather than models al
 I'm always interested in learning, collaborating on AI/ML projects, and exploring opportunities to build useful technology.
 
 📧 **Email:** [sanjanabhat846@gmail.com](mailto:sanjanabhat846@gmail.com)
+   portfolio:   https://sanjanabhat846.github.io/portfolio/
 
 📍 **Bengaluru, India**
 
