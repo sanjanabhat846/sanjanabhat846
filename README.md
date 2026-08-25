@@ -179,10 +179,22 @@ I am focused on end-to-end AI systems rather than models alone. For me, AI engin
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjanabhat846/sanjanabhat846/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanabhat846&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Sanjana's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanabhat846&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-*The GitHub contribution graph is automatically rendered below on my GitHub profile.*
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sanjanabhat846&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjanabhat846&theme=zenburn" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjanabhat846&theme=zenburn" alt="Commit Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjanabhat846/sanjanabhat846/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
