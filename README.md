@@ -1,172 +1,148 @@
+<div align="center">
+
 # Hi, I'm Sanjana 👋
 
 ### AI & Machine Learning Engineering Student
 
-I’m an **AIML engineering student** passionate about building practical solutions using **Machine Learning, Deep Learning and Generative AI**.
+Building practical AI systems from **data → model → application**.
 
-I enjoy taking an idea from **data → model → application** and turning it into a working project.
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjanabhat846.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjanabhat846)
 
----
-
-## 🧠 What I'm Working With
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### 🧠 Generative AI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=huggingface" />
-  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-</p>
-
-### 🌐 Web & Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,html,css,js" />
-</p>
-
-### 🧰 Tools & Deployment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
-
-
-### Libraries & Frameworks
-
-`TensorFlow` `Keras` `NumPy` `Pandas` `Scikit-learn` `Flask`
-
-### Tools
-
-`Git` `GitHub` `Docker` `VS Code`
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### 🌱 AgriSense AI
+I'm **Sanjana**, an AI & Machine Learning engineering student passionate about building practical solutions using **Machine Learning, Deep Learning and Generative AI**.
 
-**Plant Disease Detection & Advisory System**
+I enjoy taking an idea from **problem → data → model → application** and turning it into a working project.
 
-An AI-powered plant disease detection system that classifies plant leaf images into **38 disease classes** and provides disease information and advisory recommendations.
+I'm particularly interested in:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning & Computer Vision
+- ✨ Generative AI & LLM Applications
+- 🔎 RAG & AI Agents
+- 📊 Data Science & Analytics
+- 💻 Software Engineering
+- 🚀 AI-powered applications
+
+---
+
+# 🧠 What I'm Working With
+
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+## 🤖 AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 🧠 Generative AI
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-6366F1?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+## 🌐 Web & Application Development
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 AgriSense AI
+
+### Plant Disease Detection & Advisory System
+
+An AI-powered agricultural system that detects plant diseases from leaf images and provides disease information and advisory recommendations.
 
 **Tech:** `Python` `TensorFlow` `Keras` `EfficientNetB0` `Flask`
 
-**Highlights**
+### Highlights
 
-* Transfer learning using EfficientNetB0
-* PlantVillage dataset with 38 classes
-* Data augmentation for improved generalization
-* Top prediction with confidence score
-* Disease description, symptoms, treatment and prevention
-* Flask-based web application
-
-🔗 **Repository:** [AgriSense-AI](https://github.com/sanjanabhat846/AgriSense-AI)
+- 🌿 PlantVillage dataset with **38 disease classes**
+- 🧠 Deep learning based image classification
+- 🔄 Data preprocessing and augmentation
+- 📊 Disease prediction with confidence score
+- 💊 Disease information, treatment and prevention guidance
+- 🌐 Flask-based web application
 
 ---
 
-### 🤖 AI Support Agent
+## 🤖 AI Support Agent
+
+### Local-First AI Support System
 
 A local-first AI support system designed to retrieve relevant information from a knowledge base and generate grounded responses.
 
 **Tech:** `Python` `LangGraph` `RAG` `FAISS` `Hugging Face` `Ollama`
 
-**Highlights**
+### Highlights
 
-* Retrieval-Augmented Generation
-* Vector similarity search
-* Local LLM inference
-* Retrieval → Generation → Verification workflow
-* Designed to reduce unsupported responses
-
----
-
-### 💡 More Projects
-
-I’m continuously building and experimenting with projects in:
-
-* Machine Learning
-* Computer Vision
-* Generative AI
-* Data Analytics
-* AI-powered applications
+- 🔎 Retrieval-Augmented Generation
+- 🧠 Vector similarity search
+- 🏠 Local LLM inference
+- 🔗 Retrieval → Generation → Verification workflow
+- 🛡️ Designed to reduce unsupported responses
+- 🧩 LangGraph-based agent workflow
 
 ---
 
-## 📚 Currently Learning
+## 🎨 Peblo AI Image Generation Challenge
 
-* Advanced Machine Learning
-* Deep Learning & Computer Vision
-* Generative AI & LLMs
-* RAG & AI Agents
-* Data Structures & Algorithms
-* Model Deployment
+### AI-Assisted Visual Storytelling & Prompt Engineering
+
+A multi-frame AI image generation project focused on **character consistency, scene continuity, visual storytelling and prompt engineering**.
+
+**5 Character Designs + 9 Sequential Scene Frames**
+
+### Highlights
+
+- 🎨 Designed and locked **5 consistent characters**
+- 🎬 Generated **9 sequential cinematic frames**
+- 🧩 Created visual style and scene continuity guides
+- 📝 Documented exact AI generation prompts
+- 🔄 Recorded seeds, model settings and iteration methodology
+- 📚 Created a complete AI prompt history document
 
 ---
 
-## 🎯 My Approach
+# 💡 More Projects
+
+I'm continuously building and experimenting with:
 
 ```text
-Understand the Problem
-        ↓
-Explore & Prepare Data
-        ↓
-Build a Baseline
-        ↓
-Train & Evaluate
-        ↓
-Improve the Model
-        ↓
-Deploy as an Application
-```
-
-I’m particularly interested in **end-to-end AI systems** rather than models alone.
-
----
-
-## 🏆 What I Like Building
-
-🌱 AI for Agriculture
-🤖 Intelligent Assistants
-👁️ Computer Vision Applications
-🧠 Machine Learning Systems
-✨ Generative AI Applications
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating on AI/ML projects, and exploring opportunities to build useful technology.
-
-📧 **Email:** [sanjanabhat846@gmail.com](mailto:sanjanabhat846@gmail.com)
-   portfolio:   https://sanjanabhat846.github.io/portfolio/
-
-📍 **Bengaluru, India**
-
----
-
-### ⚡ Keep Learning. Keep Building. Keep Improving.
-
-*Building one AI project at a time.* 🌱🤖
+Machine Learning
+Computer Vision
+Generative AI
+RAG & AI Agents
+Data Analytics
+AI-powered Applications
+Software Engineering
