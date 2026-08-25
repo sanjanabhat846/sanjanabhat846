@@ -179,17 +179,13 @@ I am focused on end-to-end AI systems rather than models alone. For me, AI engin
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanabhat846&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Sanjana's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanabhat846&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjanabhat846&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjanabhat846&theme=zenburn" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjanabhat846&theme=zenburn" alt="Commit Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjanabhat846&theme=zenburn" alt="Most Committed Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjanabhat846&theme=zenburn" alt="Productive Time" />
 </p>
 
 <p align="center">
