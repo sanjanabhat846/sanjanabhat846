@@ -6,16 +6,20 @@
 
 <br>
 
+<a href="https://github.com/sanjanabhat846">
+<img src="https://img.shields.io/badge/GitHub-sanjanabhat846-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://sanjanabhat846.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sanjana-bhat-24677a329/">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sanjana%20Bhat-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sanjanabhat846@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-sanjanabhat846%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
