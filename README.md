@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,50:7C3AED,100:9333EA&text=SANJANA%20BHAT&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineering%20Student&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
+# 👋 Hi, I'm Sanjana Bhat
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Building+Practical+AI+Systems;Exploring+Generative+AI+%26+LLMs;Learning+DSA+%26+Advanced+ML;Turning+Ideas+into+Working+Applications" />
+### AI & Machine Learning Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Practical+AI+Systems;Exploring+Generative+AI+%26+LLMs;Learning+Advanced+Machine+Learning;Building+AI-powered+Applications;Turning+Ideas+into+Working+Projects" />
 
 <br>
 
@@ -24,7 +26,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sanjanabhat846&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=sanjanabhat846&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
