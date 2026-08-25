@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/sanjana-profile.jpg" width="180" alt="Sanjana Bhat" style="border-radius: 50%;" />
+
 # 👋 Hi, I'm Sanjana
 
 ### AI & Machine Learning Engineering Student
