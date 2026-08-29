@@ -196,11 +196,6 @@ I am focused on end-to-end AI systems rather than models alone. For me, AI engin
 
 ---
 
-## 💻 Coding Profiles
-
-- 🟢 **GeeksforGeeks:** [sanjanabhat846](https://www.geeksforgeeks.org/user/sanjanabhat846/)
-- 🎯 **HackerRank:** [sanjanabhat846](https://www.hackerrank.com/profile/sanjanabhat846)
-- 👨‍💻 **CodeChef:** [sanjanabhat846](https://www.codechef.com/users/sanjanabhat846)
 
 ---
 
